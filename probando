@@ -1,7 +1,7 @@
 def saludar():
     print("Hola!")
 
-def publicidad():
+def spam():
     print("100.000 adena / 10 USD / PM me!")
 
 def despedirse():
