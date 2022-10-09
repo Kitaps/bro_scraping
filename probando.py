@@ -6,7 +6,6 @@ def publicidad():
 
 def despedirse():
     print("Bueno chao.")
-<<<<<<< Updated upstream
 
 class Dog:
     id = 0
@@ -16,5 +15,3 @@ class Dog:
 
     def lick(self, person_name):
         print(f"{self.name} licks {person_name}. \"Lick Lick Lick\" *Lick* *Lick* *Lick*")
-=======
->>>>>>> Stashed changes
