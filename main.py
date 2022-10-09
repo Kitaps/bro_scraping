@@ -12,3 +12,5 @@ dogo1.lick("Max")
 dogo1.lick("Rain")
 dogo1.lick("Patrick")
 
+# UwU 
+
